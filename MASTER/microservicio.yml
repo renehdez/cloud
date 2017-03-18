@@ -4,4 +4,8 @@ nombre: Rene
 apellidop: Hernandez
 apellidom: Ramirez
 edad: 100
+eureka:
+  client:
+    serviceUrl:
+      default: http://localhost:9000/eureka/
 
