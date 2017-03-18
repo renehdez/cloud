@@ -7,5 +7,5 @@ edad: 100
 eureka:
   client:
     serviceUrl:
-      default: http://localhost:9000/eureka/
+      defaultZone: http://localhost:9000/eureka/
 
